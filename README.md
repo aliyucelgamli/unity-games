@@ -1,2 +1,2 @@
 # unity-games
-Games that i make from Youtube tutorials and another resources.
+Games that i make from tutorial videos and other resources.
